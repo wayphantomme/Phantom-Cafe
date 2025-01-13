@@ -1,20 +1,18 @@
-# 👻 Phantom Cafe
+☕ Phantom Cafe
 A mysterious ghost-themed cafe website where ethereal flavors come to life.
+
 ⚡ Features
-
-Ghost-themed modern design
-Interactive menu display
-Smooth scrolling navigation
-Animated menu items
-Responsive on all devices
-Dark mode design
-Contact form with validation
-
+Ghost-Themed Modern Design: Captures the mystical and mysterious ambiance.
+Interactive Menu Display: Engage users with an animated and dynamic menu.
+Smooth Scrolling Navigation: Seamlessly guide visitors through the website.
+Responsive Design: Optimized for all devices, from mobile to desktop.
+Dark Mode Aesthetic: Immersive visual experience with a dark-themed layout.
+Contact Form with Validation: Ensures accurate and complete user submissions.
 🔮 Live Demo
-link:
+Visit the Live Demo
 
-GitHub Repository
 🛠️ Technologies
+The project is built with:
 
 HTML5
 CSS3
@@ -23,20 +21,15 @@ Bootstrap 5.3.0
 Google Fonts
 Font Awesome Icons
 CSS Animations
-
 🎨 Color Scheme
-
-Primary Purple: #6f42c1
-Dark Gray: #343a40
-White: #ffffff
-Black: rgba(0, 0, 0, 0.9)
-
+Color	Hex Code
+Primary Purple	#6f42c1
+Dark Gray	#343a40
+White	#ffffff
+Black	rgba(0, 0, 0, 0.9)
 📞 Contact
-
 Website: wayanphantom.com
 Email: phantombagus@gmail.com
 Twitter: @wayphantomme
 Instagram: @wayphantomme
-
-
-Made with ☕ by [Phantom Megaditha]
+Made with ☕ by Phantom Megaditha
