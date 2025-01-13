@@ -31,7 +31,7 @@ The project is built with:
 | Black           | `rgba(0, 0, 0, 0.9)` |  
 
 ## 📞 Contact  
-- **Website**: [wayanphantom.com](https://wayanphantom.com)  
+- **Website**: [wayanphantom.com](https://wayanphantom.my.id)  
 - **Email**: phantombagus@gmail.com  
 - **Twitter**: [@wayphantomme](https://twitter.com/wayphantomme)  
 - **Instagram**: [@wayphantomme](https://instagram.com/wayphantomme)  
