@@ -3,6 +3,9 @@
 
 ![Phantom Cafe Preview](/img/hero-bg.webp)
 
+## 🔮 Live Demo  
+[Visit the Live Demo](https://wayphantomme.github.io/Phantom-Cafe/)  
+
 ## ⚡ Features  
 - **Ghost-Themed Modern Design**: Captures the mystical and mysterious ambiance.  
 - **Interactive Menu Display**: Engage users with an animated and dynamic menu.  
@@ -10,9 +13,6 @@
 - **Responsive Design**: Optimized for all devices, from mobile to desktop.  
 - **Dark Mode Aesthetic**: Immersive visual experience with a dark-themed layout.  
 - **Contact Form with Validation**: Ensures accurate and complete user submissions.  
-
-## 🔮 Live Demo  
-[Visit the Live Demo](https://wayphantomme.github.io/Phantom-Cafe/)  
 
 ## 🛠️ Technologies  
 The project is built with:  
