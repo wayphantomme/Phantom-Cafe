@@ -1,7 +1,7 @@
 # ☕ Phantom Cafe  
 *A mysterious ghost-themed cafe website where ethereal flavors come to life.*  
 
-![Phantom Cafe Preview](/api/placeholder/400/320)
+![Phantom Cafe Preview](/img/hero-bg.webp)
 
 ## ⚡ Features  
 - **Ghost-Themed Modern Design**: Captures the mystical and mysterious ambiance.  
